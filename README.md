@@ -1,0 +1,1 @@
+Simple french text corrector
